@@ -18,6 +18,7 @@
 		</Item>
 		<Item Name="VIs Secundarios" Type="Folder"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="ReadWrite.vi" Type="VI" URL="../SubVIs/ReadWrite.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="NotifyIcon - .NET EventCallback.vi" Type="VI" URL="/&lt;userlib&gt;/SubVIs/NotifyIcon - .NET EventCallback.vi"/>
