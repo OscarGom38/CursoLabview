@@ -21,6 +21,7 @@
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="ReadAnalogTask.vi" Type="VI" URL="../SubVIs/ReadAnalogTask.vi"/>
+		<Item Name="Stop Reading.vi" Type="VI" URL="../SubVIs/Stop Reading.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="NotifyIcon - .NET EventCallback.vi" Type="VI" URL="/&lt;userlib&gt;/SubVIs/NotifyIcon - .NET EventCallback.vi"/>
